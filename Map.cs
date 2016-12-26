@@ -6,7 +6,7 @@ public class Map : MonoBehaviour {
 
 	// Use this for initialization
 	void Start () {
-		
+		//james smells
 	}
 	
 	// Update is called once per frame
